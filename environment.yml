@@ -1,0 +1,8 @@
+name: math-adventures-rl
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - flask
+  - numpy
+  - pip
