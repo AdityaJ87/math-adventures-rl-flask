@@ -1,6 +1,5 @@
 Math Adventures AI — Adaptive Learning with Real Reinforcement Learning
 A full-stack AI-powered math tutor that automatically adjusts difficulty using Thompson Sampling (a state-of-the-art Bayesian Reinforcement Learning algorithm) to keep children aged 5–10 in their optimal learning zone.
-Live Demo: https://math-adventures-ai.onrender.com (free deployment, may take ~20s to wake up)
 Features
 
 Real Reinforcement Learning (Thompson Sampling) running on the server
